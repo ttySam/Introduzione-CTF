@@ -2,20 +2,20 @@
 
 ## Sommario
 
-- [Introduzione](https://github.com/ttySam/CTF#Introduzione)
-- [Siti utili](https://github.com/ttySam/CTF#siti-utili)
-- [Categorie CTF](https://github.com/ttySam/CTF#categorie-ctf)
-- [Architetture CPU](https://github.com/ttySam/CTF#architetture-cpu)
-- [Sistemi Operativi](https://github.com/ttySam/CTF#sistemi-operativi)
-- [Sistema Operativo + Architettura](https://github.com/ttySam/CTF#sistema-operativo--architettura)
-- [Scelta sistema operativo](https://github.com/ttySam/CTF#scelta-sistema-operativo)
-- [Shell linux](https://github.com/ttySam/CTF#shell-linux)
-- [Filesystem Hierarchy Standard](https://github.com/ttySam/CTF#filesystem-hierarchy-standard)
-- [Directory di Linux](https://github.com/ttySam/CTF#directory-di-linux)
-- [Oggetti su Linux](https://github.com/ttySam/CTF#oggetti-su-linux)
-- [Comandi base Linux](https://github.com/ttySam/CTF#comandi-base-linux)
-- [Installazione programmi aggiuntivi](https://github.com/ttySam/CTF#installazione-programmi-aggiuntivi)
-- [Programmi o siti utili per le CTF](https://github.com/ttySam/CTF#programmi-o-siti-utili-per-le-ctf)
+- [Introduzione](https://github.com/ttySam/Introduzion-CTF#Introduzione)
+- [Siti utili](https://github.com/ttySam/Introduzione-CTF#siti-utili)
+- [Categorie CTF](https://github.com/ttySam/Introduzione-CTF#categorie-ctf)
+- [Architetture CPU](https://github.com/ttySam/Introduzione-CTF#architetture-cpu)
+- [Sistemi Operativi](https://github.com/ttySam/Introduzione-CTF#sistemi-operativi)
+- [Sistema Operativo + Architettura](https://github.com/ttySam/Introduzione-CTF#sistema-operativo--architettura)
+- [Scelta sistema operativo](https://github.com/ttySam/Introduzione-CTF#scelta-sistema-operativo)
+- [Shell linux](https://github.com/ttySam/Introduzione-CTF#shell-linux)
+- [Filesystem Hierarchy Standard](https://github.com/ttySam/Introduzione-CTF#filesystem-hierarchy-standard)
+- [Directory di Linux](https://github.com/ttySam/Introduzione-CTF#directory-di-linux)
+- [Oggetti su Linux](https://github.com/ttySam/Introduzione-CTF#oggetti-su-linux)
+- [Comandi base Linux](https://github.com/ttySam/Introduzione-CTF#comandi-base-linux)
+- [Installazione programmi aggiuntivi](https://github.com/ttySam/Introduzione-CTF#installazione-programmi-aggiuntivi)
+- [Programmi o siti utili per le CTF](https://github.com/ttySam/Introduzione-CTF#programmi-o-siti-utili-per-le-ctf)
 
 ## Introduzione
 
