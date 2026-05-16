@@ -2,7 +2,7 @@
 
 ## Sommario
 
-- [Introduzione](https://github.com/ttySam/Introduzion-CTF#Introduzione)
+- [Introduzione](https://github.com/ttySam/Introduzione-CTF#Introduzione)
 - [Siti utili](https://github.com/ttySam/Introduzione-CTF#siti-utili)
 - [Categorie CTF](https://github.com/ttySam/Introduzione-CTF#categorie-ctf)
 - [Architetture CPU](https://github.com/ttySam/Introduzione-CTF#architetture-cpu)
