@@ -2,19 +2,19 @@
 
 ## Sommario
 
-- [Introduzione](/README.md#Introduzione)
-- [Siti utili](/README.md#siti-utili)
-- [Categorie CTF](/README.md#categorie-ctf)
-- [Architetture CPU](/README.md#architetture-cpu)
-- [Sistemi Operativi](/README.md#sistemi-operativi)
-- [Sistema Operativo + Architettura](/README.md#sistema-operativo--architettura)
-- [Scelta sistema operativo](/README.md#scelta-sistema-operativo)
-- [Shell linux](/README.md#shell-linux)
-- [Filesystem Hierarchy Standard](/README.md#filesystem-hierarchy-standard)
-- [Directory di Linux](/README.md#directory-di-linux)
-- [Oggetti su Linux](/README.md#oggetti-su-linux)
-- [Comandi base Linux](/README.md#comandi-base-linux)
-- [Programmi aggiuntivi](/README.md#programmi-aggiuntivi)
+- [Introduzione](https://github.com/ttySam/CTF#Introduzione)
+- [Siti utili](https://github.com/ttySam/CTF#siti-utili)
+- [Categorie CTF](https://github.com/ttySam/CTF#categorie-ctf)
+- [Architetture CPU](https://github.com/ttySam/CTF#architetture-cpu)
+- [Sistemi Operativi](https://github.com/ttySam/CTF#sistemi-operativi)
+- [Sistema Operativo + Architettura](https://github.com/ttySam/CTF#sistema-operativo--architettura)
+- [Scelta sistema operativo](https://github.com/ttySam/CTF#scelta-sistema-operativo)
+- [Shell linux](https://github.com/ttySam/CTF#shell-linux)
+- [Filesystem Hierarchy Standard](https://github.com/ttySam/CTF#filesystem-hierarchy-standard)
+- [Directory di Linux](https://github.com/ttySam/CTF#directory-di-linux)
+- [Oggetti su Linux](https://github.com/ttySam/CTF#oggetti-su-linux)
+- [Comandi base Linux](https://github.com/ttySam/CTF#comandi-base-linux)
+- [Programmi aggiuntivi](https://github.com/ttySam/CTF#programmi-aggiuntivi)
 
 ## Introduzione
 
