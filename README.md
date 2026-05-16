@@ -14,7 +14,8 @@
 - [Directory di Linux](https://github.com/ttySam/CTF#directory-di-linux)
 - [Oggetti su Linux](https://github.com/ttySam/CTF#oggetti-su-linux)
 - [Comandi base Linux](https://github.com/ttySam/CTF#comandi-base-linux)
-- [Programmi aggiuntivi](https://github.com/ttySam/CTF#programmi-aggiuntivi)
+- [Installazione programmi aggiuntivi](https://github.com/ttySam/CTF#installazione-programmi-aggiuntivi)
+- [Programmi o siti utili per le CTF](https://github.com/ttySam/CTF#programmi-o-siti-utili-per-le-ctf)
 
 ## Introduzione
 
@@ -66,7 +67,7 @@ Da qui potrete iscrivere la vostra squadra, annunciare la vostra volontà di par
 
 Le CTF hanno al loro interno prove che appartengono a diverse categorie:
 
-- **MISC:** Da Miscellanous, ovvero *misto*, queste sono prove un po' più generiche che variano molto in base all'evento. Sono solitamente quelle più facili e possono far parte di una qualsiasi delle altre sottocategorie.
+- **Misc:** Da Miscellanous, ovvero *misto*, queste sono prove un po' più generiche che variano molto in base all'evento. Sono solitamente quelle più facili e possono far parte di una qualsiasi delle altre sottocategorie.
 - **Web Exploitation:** Questo tipo di prova ci mette a disposizione un sito web, un server, o un web app con delle vulnerabilità che dobbiamo sfruttare per ottenere una *flag*
 - **Cryptography:** Prove che vogliono testare le vostre conoscenze e competenze del mondo della crittografia.
 Quindi serve conoscere concetti come chiavi *simmetriche* e *asimmetriche*, algoritmi di hashing, algoritmi di creazione e scambio di chiavi come *Diffie-Hellman*, e così via.
@@ -231,7 +232,7 @@ Per muoverci all'interno del nostro filesystem avremo bisogni di alcuni comandi 
 | find                    |                         | Cerca un oggetto nel Filesystem                                              |
 | echo                    |                         | Scrive sullo standard output ciò che gli passiamo                            |
 
-## Programmi aggiuntivi
+## Installazione programmi aggiuntivi
 
 Per installare programmi ci sono vari modi, e solitamente ci aiuta la documentazione sul sito del programma che vogliamo scaricare.
 
@@ -250,3 +251,56 @@ Installa un programma a partire da un pacchetto *.deb* che abbiamo scaricato.
 ```console
 sudo dpkg -i pacchetto-bellissimo-02.4.1.deb
 ```
+
+### Ultima spiaggia - ./configure && make && make install
+
+In caso di programmi scritti in C possiamo usare questi tre comandi per l'installazione.
+
+Rimando a questa pagina di wikipedia.
+
+[https://en.wikipedia.org/wiki/Configure_script](https://en.wikipedia.org/wiki/Configure_script)
+
+## Programmi o siti utili per le CTF
+
+### Generici
+
+- wget
+- curl
+- nc
+- tar
+- gzip, gunzip, bzip2, ecc.
+- strings
+- nmap
+- wireshark
+
+### Web Exploitation
+
+- Burp Suite
+- gobuster
+- ffuf
+
+### Cryptography
+
+- openssl
+
+### Forensics
+
+- exiftool
+- steghide
+
+### Reverse Engineering / pwn
+
+- gdb
+- objdump
+- xxd
+- ghidra
+- IDA Pro
+
+### OSINT
+
+- Google Search Engine
+- Google Lens
+- Google Maps/Earth
+- sherlock
+- nslookup
+- whois
